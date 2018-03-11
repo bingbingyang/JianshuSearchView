@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bing.yang\.android\build-cache\53389a524731710c84767449a0ebc7f2f3581469\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\project\JianshuDemo\app\build\intermediates\pre-dexed\debug\classes_5f410ea56a4071e83686a7690bceea41160d7224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bing.yang\.android\build-cache\de42057a55c007cb8e218a023e46f40abfb4ab5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\project\JianshuDemo\app\build\intermediates\pre-dexed\debug\classes_2c5946a530fbd7fba73107b909da4fcf0b453c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bing.yang\.android\build-cache\003fb016bb115bf32438488fd0b28ba52f535a09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\project\JianshuDemo\app\build\intermediates\pre-dexed\debug\classes_ec9d0f3dc27544ef9abd919a5cc505075fee6f58.jar" />
+    </item>
+
+</items>
